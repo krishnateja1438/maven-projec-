@@ -1,0 +1,6 @@
+mvn archetype:generate -DgroupId=com.companyname.automobile -DartifactId=trucks -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
+The BATCH mode will take the default value without asking you 
+In Interactive mode you should provide the values 
+
+mvn archetype:generate -DgroupId=webserveer -DartifactId=Login -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
